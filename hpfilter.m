@@ -4,7 +4,7 @@ function [g,c] = hpfilter(y,lambda)
 % parameter lambda.
 %
 % Hodrick, Robert J. and Edward C. Prescott, 1997, 
-% "Postwar U.S. Business Cycles: An Empirical Investigation," Vol. 29, 
+% "Postwar U.S. Business Cycles: An Empirical Investigation," vol. 29, 
 % no. 1. 1-16, February. URL: http://www.jstor.org/stable/2953682
 %
 % All series are Tx1 vectors with the t=1 component at the top and the t=T
