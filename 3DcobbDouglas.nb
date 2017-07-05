@@ -1,0 +1,15 @@
+Clear[L, K, a, b];
+(*This Mathematica code generates a 3D CobbDouglas production function (press: SHIFT+ENTER).
+This implementation was written by Jean-Paul K.Tsasa.
+In case you spot mistakes, email me at tsasa.jean-paul@uqam.ca*)
+
+a = .67
+b = .33
+Y = L^a K^b;
+Constraint = m − (w L + r K);
+w = .5
+r = .5
+m = 10
+PLOT1 = Plot3D[Y, {L, 0, 10}, {K, 0, 20}, AxesLabel → {“L”, “K”, “Y”}]
+PLOT2 = Plot3D[Constraint, {L, 0, 10}, {K, 0, 20}]
+Show[PLOT1, PLOT2, DisplayFunction → $Display Function]
