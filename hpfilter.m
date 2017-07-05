@@ -1,5 +1,5 @@
 function [g,c] = hpfilter(y,lambda)
-% This code generates the growth and cyclical components of the observed 
+% This MatLab code generates the growth and cyclical components of the observed 
 % series y using the Hodrick & Prescott (1997) filter with smoothing 
 % parameter lambda.
 %
