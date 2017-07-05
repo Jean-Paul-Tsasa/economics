@@ -1,3 +1,3 @@
 # replications
 
-MatLab, Dynare, Stata and R replication codes are here. 
+MatLab, Dynare, Mathematica, Stata and R replication codes are here. 
