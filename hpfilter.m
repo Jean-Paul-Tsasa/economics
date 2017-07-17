@@ -10,7 +10,7 @@ function [g,c] = hpfilter(y,lambda)
 % All series are Tx1 vectors with the t=1 component at the top and the t=T
 % component at the bottom.
 %
-% This implementation was written by Jean-Paul K. Tsasa. 
+% This implementation was written by Jean-Paul K. Tsasa based on Ireland code. 
 % In case you spot mistakes, email me at tsasa.jean-paul@uqam.ca 
 
 
