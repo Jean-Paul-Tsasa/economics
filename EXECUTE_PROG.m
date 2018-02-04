@@ -1,6 +1,6 @@
 % This file extracts the cyclical components and calculates the empirical moments
 % This implementation was written by Jean-Paul K. Tsasa
-% In case you spot mistakes, email us at tsasa.jean-paul@uqam.ca
+% In case you spot mistakes, email me at tsasa.jean-paul@uqam.ca
  %
  %
  % Copyright (C) 2017 Tsasa.
